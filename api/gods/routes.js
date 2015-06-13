@@ -2,7 +2,7 @@
  * Created by jean on 6/13/15.
  */
 var Backbone = require('backbone');
-var fixture = require('./fixture');
+var fixture = require('./gods');
 var collection = new Backbone.Collection(fixture);
 
 var id = collection.length;
