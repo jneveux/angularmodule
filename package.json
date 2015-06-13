@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/jneveux/angularmodule",
   "devDependencies": {
+    "backbone": "1.1.2",
     "babel": "^4.6.3",
     "babelify": "^5.0.3",
     "bluebird": "^2.7.1",

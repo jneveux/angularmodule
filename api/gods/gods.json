@@ -1,0 +1,8 @@
+[
+  {"id":1, "name":"Zeus", "description":"God of the sky, lightning, thunder, law, order, justice" },
+  {"id":2, "name":"Hades", "description":"King of the underworld God of the Dead and Riches"},
+  {"id":3, "name":"Poseidon", "description":"God of the sea, earthquakes, storms, and horses"},
+  {"id":4, "name":"Gaia", "description":"Primordial Goddess of the Earth"},
+  {"id":5, "name":"Uranus", "description":"Primordial God of the Sky"},
+  {"id":6, "name":"Cronus", "description":"Leader and the youngest of the first generation of Titans"}
+]
